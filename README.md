@@ -11,7 +11,7 @@ I am deeply interested in:
   - Deep Learning
   - Machine Learning
 ## 🔭 Current Projects
-  - Object Detection model using pre-trained CNN models.
+  - Fine-tuning models and implementing RAG.
 ## 🌱 Learnings
   - Natural Language Processing concepts
   - Transformers
