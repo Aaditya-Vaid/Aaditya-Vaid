@@ -11,7 +11,8 @@ I am deeply interested in:
   - Deep Learning
   - Machine Learning
 ## 🔭 Current Projects
-  - Fine-tuning models and implementing RAG.
+  - Implementing RAG.
+  - Making AI Agents.
 ## 🌱 Learnings
   - Natural Language Processing concepts
   - Transformers
